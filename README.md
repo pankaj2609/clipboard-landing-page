@@ -1,2 +1,2 @@
 # clipboard-landing-page
-my first frontend project
+my first project so far
